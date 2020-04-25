@@ -1,0 +1,29 @@
+#particles-js{
+    font-size: 100px;
+    background: url(imagenes/gta-v.jpg);
+    background-position: center;
+    background-attachment: contain;
+    background-size: cover;
+}
+.ancho-letras{
+    top: 100px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+}
+.letras-slider{
+    width: 80%;
+    margin: auto;
+}
+.letras-slider h1{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+.letras-slider p{
+    color: white;
+    font-size: 20px;
+    font-family: rale;
+    padding-top: 50px;
+}

@@ -1,0 +1,18 @@
+.red{
+    position: fixed;
+    top: 200px;
+    z-index: 100;
+    left: 0;
+}
+#instagram a{
+    background: #e95950;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+    width: 55px;
+    transition: all .4s ease;
+    }
+#instagram a:hover{
+    background: #000;
+    padding: 10px 50px;
+    }
